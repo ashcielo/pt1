@@ -1,0 +1,7 @@
+{
+  "name": "EduTrack - Advanced Attendance Management System",
+  "description": "A comprehensive role-based attendance management system featuring OTP verification, interactive calendar views, AI insights via Gemini, and detailed reporting for academic institutions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
